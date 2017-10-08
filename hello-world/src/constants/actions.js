@@ -1,0 +1,1 @@
+export const UPDATE_COUNTER = 'AC_UPDATE_COUNTER';
